@@ -21,4 +21,4 @@ Here's a detailed explanation of how Spectral Angle Classification works:
 
 Spectral Angle Classification offers several advantages, including its ability to handle mixed pixels, sensitivity to spectral variations, and robustness to noise. However, it assumes that the spectral differences between classes are primarily due to differences in composition and not due to other factors such as illumination or view angle.
 
-It's worth noting that the implementation details may vary depending on the specific software or library used for spectral angle classification. The approach described here provides a general understanding of the underlying principles of SAC.
+With the following repository I have provided the following jupyter notebook where a classification task with spectral angle is performed.
