@@ -1,1 +1,1 @@
-# spectral-Angle-Classification
+# Spectral Angle Technique to perform image classification
