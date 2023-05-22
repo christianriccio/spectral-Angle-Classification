@@ -1,7 +1,7 @@
 # Spectral Angle Technique to perform image classification
 
 
-Spectral Angle Classification (SAC) is a technique used for image classification in remote sensing and hyperspectral imaging. It measures the spectral similarity between pixels in an image by computing the angle between their spectral vectors in a high-dimensional feature space. The underlying principle is that pixels belonging to the same class exhibit similar spectral signatures.
+Spectral Angle Classification is a technique used for image classification in remote sensing. It measures the spectral similarity between pixels in an image by computing the angle between their spectral vectors in a high-dimensional feature space. The underlying principle is that pixels belonging to the same class exhibit similar spectral signatures.
 
 Here's a detailed explanation of how Spectral Angle Classification works:
 
